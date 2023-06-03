@@ -21,8 +21,8 @@ The total value of cryptocurrency stolen in the attack is $325 million at the ti
 
 ## Timeline:
 
--The attack took place on February 2, 2022. 
--The Wormhole protocol team discovered the attack on February 3, 2022. 
+- The attack took place on February 2, 2022. 
+- The Wormhole protocol team discovered the attack on February 3, 2022. 
 
 ## Security Failure Causes:
 
